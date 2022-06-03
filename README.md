@@ -31,7 +31,7 @@ Kripto Portföy Takibi Web Projesi
 **KULLANICI PANELİ**
 
 
-*Portföy ekleme silme güncelleme
+* Portföy ekleme silme güncelleme
 
 
 * Bir coinin ekledigi sayıya göre kaç dolara sahip olduğunu görebilme
