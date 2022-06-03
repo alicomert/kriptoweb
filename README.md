@@ -3,29 +3,29 @@ Kripto Portföy Takibi Web Projesi
 
 **ADMIN PANELI**
 
-*Coin Ekle sil güncelle işlemleri
+* Coin Ekle sil güncelle işlemleri
 
-*Üye Ekle Sil Güncelle İşlemleri
+* Üye Ekle Sil Güncelle İşlemleri
 
-*Duyuru Ekle Sil Güncelle İşlemleri
+* Duyuru Ekle Sil Güncelle İşlemleri
 
-*İletişim & Soru cevap verme sistemi
+* İletişim & Soru cevap verme sistemi
 
-*Post Silme işlemi 
+* Post Silme işlemi 
 
-*Yorum Silme işlemi
+* Yorum Silme işlemi
 
 
 **Mod İşlemleri**
 
 
-*Duyuru Ekle Sil Güncelle İşlemleri
+* Duyuru Ekle Sil Güncelle İşlemleri
 
-*İletişim & Soru cevap verme sistemi
+* İletişim & Soru cevap verme sistemi
 
-*Post Silme işlemi 
+* Post Silme işlemi 
 
-*Yorum Silme işlemi
+* Yorum Silme işlemi
 
 
 **KULLANICI PANELİ**
@@ -34,12 +34,12 @@ Kripto Portföy Takibi Web Projesi
 *Portföy ekleme silme güncelleme
 
 
-*Bir coinin ekledigi sayıya göre kaç dolara sahip olduğunu görebilme
+* Bir coinin ekledigi sayıya göre kaç dolara sahip olduğunu görebilme
 
-*Post Ekleme Silme Güncelleme
+* Post Ekleme Silme Güncelleme
 
-*Yorum Ekle Sil Güncelle
+* Yorum Ekle Sil Güncelle
 
 * Profiline web sitesi, biyografi ekleyebilme
 
-*Haber eklentisi ile haberleri takip edebilme
+* Haber eklentisi ile haberleri takip edebilme
